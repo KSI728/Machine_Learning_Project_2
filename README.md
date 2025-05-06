@@ -14,7 +14,8 @@
 
 ## 📂 활용 데이터셋 출처
 
-- trashnet (https://github.com/garythung/trashnet)
+- 포켓몬 공식 사이트 (https://pokemonkorea.co.kr/pokedex)
+- 포켓몬 도트 그래픽 제공 사이트 (https://pokemondb.net/pokedex/game/diamond-pearl)
 
 ## 📂 파일 설명 
 
